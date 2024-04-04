@@ -6,7 +6,6 @@
 <h3 align="center">Math and Data enthusiast. Masters Degree in Information Technology and Analytics from Rutgers Business School. Passionate about uncovering insights through analytics and visualization. Eager to learn and teach, turning raw data into meaningful stories. Ready to share the power of data with others.</h3>
 <img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0da6805ff4dd716da834f_Visual%20data%20(1).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeyvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="ajeyvishnu" /> </p>
 
 - 🔭 I am currently working on my Portfolio 
   
