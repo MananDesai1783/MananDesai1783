@@ -30,10 +30,7 @@
 <a> <img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" alt="powerbi" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeyvishnu&show_icons=true&locale=en&layout=compact" alt="ajeyvishnu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeyvishnu&show_icons=true&locale=en" alt="ajeyvishnu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeyvishnu&" alt="ajeyvishnu" /></p>
 
 
