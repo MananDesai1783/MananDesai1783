@@ -4,14 +4,15 @@
 
 ## 👋🏻 Hi, I'm Manan!
 
-📊 I'm a **Data Analyst** with a passion for leveraging machine learning models and conducting analysis to address business needs. In addition to my data analysis expertise, I enjoy incorporating management strategies to effectively scale my analyses to meet evolving requirements.
+📊  I am a skilled **Data Analyst** with over 3 years of experience in transforming complex data into actionable insights. Experienced in utilizing a
+ robust toolkit including Power BI, SQL, Python, Advanced Excel, and Tableau. Skilled in data extraction, transformation, cleaning, analysis,
+ visualization, and reporting. Proficient in A/B testing, ETL processes, and workflow optimization.
 
 #### 📚 Graduated in December 2024 with a Master's in Information Technology & Analytics Degree from Rutgers Business School - Newark
 #### 💻 Working as a Data Analyst at CVS Health, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
 ### 👩‍💻 Work Experience
 In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams. 
-- 📄 Knoabout my experiences [here](https://www.linkedin.com/in/mananpdesai/#/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
