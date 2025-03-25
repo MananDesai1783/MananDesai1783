@@ -2,17 +2,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="MasterHeader" width="50%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manan Desai</h1>
-<h3 align="center">Math and Data enthusiast. Masters Degree in Information Technology and Analytics from Rutgers Business School. Passionate about uncovering insights through analytics and visualization. Eager to learn and teach, turning raw data into meaningful stories. Ready to share the power of data with others.</h3>
-<img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0da6805ff4dd716da834f_Visual%20data%20(1).gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MananDesai1783&label=Profile%20views&color=0e75b6&style=flat" alt="ajeyvishnu" /> </p>
+## 👋🏻 Hi, I'm Manan!
 
-- 🔭 I am currently working on my Portfolio 
-  
-- 🌱 I’m currently exploring **Advanced Statistics, Tableau, and Power BI**
+📊 I'm a **Data Analyst** with a passion for leveraging machine learning models and conducting analysis to address business needs. In addition to my data analysis expertise, I enjoy incorporating management strategies to effectively scale my analyses to meet evolving requirements.
 
-- 💬 Ask me about **Data Analysis and Visualisation**
+#### 📚 Graduated in December 2024 with a Master's in Information Technology & Analytics Degree from Rutgers Business School - Newark
+#### 💻 Working as a Data Analyst at CVS Health, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
+### 👩‍💻 Work Experience
+In my previous role, I conducted in-depth analyses to uncover key product insights and enhance overall performance. I focused on recommending innovative approaches to problem-solving and actively contributed to product development from ideation to execution, collaborating with cross-functional teams. 
 - 📄 Knoabout my experiences [here](https://www.linkedin.com/in/mananpdesai/#/)
 
 <h3 align="left">Connect with me:</h3>
