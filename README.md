@@ -8,7 +8,7 @@
  robust toolkit including Power BI, SQL, Python, Advanced Excel, and Tableau. Skilled in data extraction, transformation, cleaning, analysis,
  visualization, and reporting. Proficient in A/B testing, ETL processes, and workflow optimization.
 
-#### 📚 Graduated in December 2024 with a Master's in Information Technology & Analytics Degree from Rutgers Business School - Newark
+#### 📚 Graduated in December 2024 with a Master's in Data Science Degree from Rutgers University
 #### 💻 Working as a Data Analyst at CVS Health, I provide teams with the solutions to analytical requirements and support product and business development strategies with my problem-solving capabilities
 
 ### 👩‍💻 Work Experience
